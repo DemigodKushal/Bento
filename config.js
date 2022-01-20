@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Demigod',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -20,7 +20,7 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'SO JA GADHE',
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
@@ -48,7 +48,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/',
     },
     {
       id: '3',
@@ -72,7 +72,7 @@ const CONFIG = {
       id: '6',
       name: 'Odysee',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
@@ -82,44 +82,44 @@ const CONFIG = {
 
   //Icons
   firstListIcon: 'music',
-  secondListIcon: 'coffee',
+  secondListIcon: 'important',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Bass',
+        link: 'https://www.youtube.com/channel/UCCvVpbYRgYjMN7mG7qQN0Pg',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Trap',
+        link: 'https://www.youtube.com/c/TrapNation',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'The stuff I need',
+        link: 'https://www.youtube.com/watch?v=vHkmYpAbMio',
       },
       {
-        name: 'Rock',
+        name: 'Spotify',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Google Classroom',
+        link: 'https://classroom.google.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'UnixCool',
+        link: 'https://reddit.com/r/unixporn',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'FMHY',
+        link: 'https://reddit.com/r/freemediaheckyeah',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Whatsapp',
+        link: 'https://web.whatsapp.com',
       },
     ],
   },
