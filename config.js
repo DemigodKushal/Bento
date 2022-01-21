@@ -119,7 +119,7 @@ const CONFIG = {
       },
       {
         name: 'Time Table',
-        link: 'file://~/Downloads/timetable.jpeg',
+        link: 'file:///home/demigod/Downloads/timetable.jpeg',
       },
     ],
   },
