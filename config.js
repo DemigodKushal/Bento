@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'SO JA GADHE',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: 'fe65c0703f06bbe30026dbd25eef514f',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
