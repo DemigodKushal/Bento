@@ -96,7 +96,7 @@ const CONFIG = {
         link: 'https://www.youtube.com/c/TrapNation',
       },
       {
-        name: 'The stuff I need',
+        name: 'Current Obsession',
         link: 'https://www.youtube.com/watch?v=vHkmYpAbMio',
       },
       {
