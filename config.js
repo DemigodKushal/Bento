@@ -70,7 +70,7 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
       link: 'https://youtube.com/',
     },
@@ -101,7 +101,7 @@ const CONFIG = {
       },
       {
         name: 'Spotify',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        link: 'https://www.open.spotify.com',
       },
     ],
     secondList: [
