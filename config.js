@@ -118,8 +118,8 @@ const CONFIG = {
         link: 'https://reddit.com/r/freemediaheckyeah',
       },
       {
-        name: 'Whatsapp',
-        link: 'https://web.whatsapp.com',
+        name: 'Time Table',
+        link: 'file://~/Downloads/timetable.jpeg',
       },
     ],
   },
